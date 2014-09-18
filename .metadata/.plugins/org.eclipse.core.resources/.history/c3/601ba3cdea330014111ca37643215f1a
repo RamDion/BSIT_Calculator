@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CcsCalcu</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">BSIT</string>
+    <string name="calcu">Calculator</string>
+    <string name="title_activity_calculator">Calculator</string>
+    <string name="clr">CLEAR</string>
+    <string name="1">1</string>
+    <string name="2">2</string>
+    <string name="3">3</string>
+    <string name="4">4</string>
+    <string name="5">5</string>
+    <string name="6">6</string>
+    <string name="7">7</string>
+    <string name="8">8</string>
+    <string name="nine">9</string>
+
+</resources>

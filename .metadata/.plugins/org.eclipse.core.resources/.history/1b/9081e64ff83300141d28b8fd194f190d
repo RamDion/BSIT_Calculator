@@ -1,0 +1,44 @@
+package edu.ucuccs.ccscalcu;
+
+import android.app.Activity;
+import android.os.Bundle;
+import android.view.View;
+import android.view.View.OnClickListener;
+import android.widget.Button;
+import android.widget.EditText;
+
+public class MainActivity extends Activity implements OnClickListener {
+	Button one;
+	Button two;
+	Button three;
+	Button four;
+	Button five;
+	Button six;
+	Button seven;
+	Button eight;
+	Button nine;
+	Button zero;
+	Button plus;
+	Button minus;
+	Button div;
+	Button mul;
+	Button point;
+	Button equal;
+	EditText calc;
+	
+	boolean clear;
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main);
+    }
+
+	@Override
+	public void onClick(View arg0) {
+		// TODO Auto-generated method stub
+		
+	}
+
+
+}
